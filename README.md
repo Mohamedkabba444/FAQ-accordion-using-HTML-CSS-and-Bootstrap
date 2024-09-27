@@ -53,8 +53,8 @@
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Linkedin - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [Mohamedkabba444](https://www.frontendmentor.io/profile/Mohamedkabba444)
+- Linkedin - [Mohamed Kabba](https://www.linkedin.com/in/mohamed-kabba-2a804631b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 ## Acknowledgments
